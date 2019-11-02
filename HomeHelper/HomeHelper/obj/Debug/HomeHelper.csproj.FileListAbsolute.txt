@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\HomeHelper\HomeHelper\bin\Debug\HomeHelper.exe
+C:\Users\user\source\repos\HomeHelper\HomeHelper\bin\Debug\HomeHelper.pdb
+C:\Users\user\source\repos\HomeHelper\HomeHelper\obj\Debug\HomeHelper.csprojAssemblyReference.cache
+C:\Users\user\source\repos\HomeHelper\HomeHelper\obj\Debug\HomeHelper.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HomeHelper\HomeHelper\obj\Debug\HomeHelper.csproj.CopyComplete
+C:\Users\user\source\repos\HomeHelper\HomeHelper\obj\Debug\HomeHelper.exe
+C:\Users\user\source\repos\HomeHelper\HomeHelper\obj\Debug\HomeHelper.pdb
+L:\Data\C Studio\My Project\HomeHelper\HomeHelper\obj\Debug\HomeHelper.csprojAssemblyReference.cache
+L:\Data\C Studio\My Project\HomeHelper\HomeHelper\obj\Debug\HomeHelper.csproj.CoreCompileInputs.cache
+L:\Data\C Studio\My Project\HomeHelper\HomeHelper\obj\Debug\HomeHelper.exe
+L:\Data\C Studio\My Project\HomeHelper\HomeHelper\obj\Debug\HomeHelper.pdb
+L:\Data\C Studio\My Project\HomeHelper\HomeHelper\bin\Debug\HomeHelper.exe.config
+L:\Data\C Studio\My Project\HomeHelper\HomeHelper\bin\Debug\HomeHelper.exe
+L:\Data\C Studio\My Project\HomeHelper\HomeHelper\bin\Debug\HomeHelper.pdb
+L:\Data\C Studio\My Project\HomeHelper\HomeHelper\bin\Debug\UnityNetwork.dll
+L:\Data\C Studio\My Project\HomeHelper\HomeHelper\bin\Debug\UnityNetwork.pdb
+L:\Data\C Studio\My Project\HomeHelper\HomeHelper\obj\Debug\HomeHelper.csproj.CopyComplete

@@ -1,0 +1,22 @@
+C:\Users\user\source\repos\Servers\Servers\bin\Debug\Servers.dll
+C:\Users\user\source\repos\Servers\Servers\bin\Debug\Servers.pdb
+C:\Users\user\source\repos\Servers\Servers\obj\Debug\Servers.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Servers\Servers\obj\Debug\Servers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Servers\Servers\obj\Debug\Servers.csproj.CopyComplete
+C:\Users\user\source\repos\Servers\Servers\obj\Debug\Servers.dll
+C:\Users\user\source\repos\Servers\Servers\obj\Debug\Servers.pdb
+C:\Users\user\source\repos\Servers\Servers\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\Servers\Servers\bin\Debug\Google.Protobuf.dll
+C:\Users\user\source\repos\Servers\Servers\bin\Debug\MySql.Data.xml
+L:\Data\C Studio\My Project\HomeHelper Servers\Servers\bin\Debug\Servers.dll
+L:\Data\C Studio\My Project\HomeHelper Servers\Servers\bin\Debug\Servers.pdb
+L:\Data\C Studio\My Project\HomeHelper Servers\Servers\bin\Debug\MySql.Data.dll
+L:\Data\C Studio\My Project\HomeHelper Servers\Servers\bin\Debug\UnityNetwork.dll
+L:\Data\C Studio\My Project\HomeHelper Servers\Servers\bin\Debug\Google.Protobuf.dll
+L:\Data\C Studio\My Project\HomeHelper Servers\Servers\bin\Debug\MySql.Data.xml
+L:\Data\C Studio\My Project\HomeHelper Servers\Servers\bin\Debug\UnityNetwork.pdb
+L:\Data\C Studio\My Project\HomeHelper Servers\Servers\obj\Debug\Servers.csprojAssemblyReference.cache
+L:\Data\C Studio\My Project\HomeHelper Servers\Servers\obj\Debug\Servers.csproj.CoreCompileInputs.cache
+L:\Data\C Studio\My Project\HomeHelper Servers\Servers\obj\Debug\Servers.csproj.CopyComplete
+L:\Data\C Studio\My Project\HomeHelper Servers\Servers\obj\Debug\Servers.dll
+L:\Data\C Studio\My Project\HomeHelper Servers\Servers\obj\Debug\Servers.pdb

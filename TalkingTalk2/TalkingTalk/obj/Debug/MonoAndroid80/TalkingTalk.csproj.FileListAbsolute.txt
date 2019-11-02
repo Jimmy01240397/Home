@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\TalkingTalk\TalkingTalk\obj\Debug\MonoAndroid80\TalkingTalk.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TalkingTalk\TalkingTalk\obj\Debug\MonoAndroid80\res.flag

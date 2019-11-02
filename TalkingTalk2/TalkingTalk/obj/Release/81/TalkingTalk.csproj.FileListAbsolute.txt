@@ -1,0 +1,165 @@
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\TalkingTalk.nuget.stamp
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\TalkingTalk.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\libraryimports.cache.stamp
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res.flag
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\TalkingTalk.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\TalkingTalk.dll
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\TalkingTalk.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\com.Jimmiker.TalkingTalk2.apk
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\com.Jimmiker.TalkingTalk2-Signed.apk
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\UnityNetwork.dll
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\TalkingTalk.csproj.CopyComplete
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\TalkingTalk.dll
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\TalkingTalk.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\android\bin\com.Jimmiker.TalkingTalk2.apk
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\layout\activity_main.xml
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\layout\content_main.xml
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\values\colors.xml
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\values\dimens.xml
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\values\ic_launcher_background.xml
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\values\strings.xml
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\values\styles.xml
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\menu\menu_main.xml
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\layout\password.xml
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\res\layout\passwordin.xml
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\R.cs.flag
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\R.txt
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\uploadflags.txt
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\Google.Api.Gax.Grpc.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\Google.Api.Gax.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\Google.Cloud.Language.V1.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\Google.Cloud.Speech.V1.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\Google.LongRunning.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\Microsoft.CSharp.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\Mono.Android.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\Mono.Security.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\mscorlib.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\System.ComponentModel.Composition.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\System.Core.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\System.IO.Compression.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\System.Net.Http.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\System.Numerics.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\System.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\System.Runtime.Serialization.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\System.ServiceModel.Internals.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\System.Xml.Linq.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\System.Xml.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\bin\Release\TalkingTalk.dll.mdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\Mono.Android.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\mscorlib.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\System.Core.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\System.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\System.Xml.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\System.Net.Http.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\Mono.Security.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\TalkingTalk.dll.mdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\android\assets\TalkingTalk.dll.mdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\android\assets\Mono.Android.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\android\assets\Mono.Security.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\android\assets\mscorlib.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\android\assets\System.Core.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\android\assets\System.pdb
+C:\Users\user\source\repos\TalkingTalk2\TalkingTalk\obj\Release\81\android\assets\System.Runtime.Serialization.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\TalkingTalk.dll
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\TalkingTalk.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\com.Jimmiker.TalkingTalk2.apk
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\com.Jimmiker.TalkingTalk2-Signed.apk
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\UnityNetwork.dll
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\UnityNetwork.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\TalkingTalk.nuget.stamp
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\TalkingTalk.csprojAssemblyReference.cache
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\libraryimports.cache.stamp
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res.flag
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\TalkingTalk.csproj.CoreCompileInputs.cache
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\TalkingTalk.csproj.CopyComplete
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\TalkingTalk.dll
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\TalkingTalk.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\android\bin\com.Jimmiker.TalkingTalk2.apk
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\layout\activity_main.xml
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\layout\content_main.xml
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\values\colors.xml
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\values\dimens.xml
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\values\ic_launcher_background.xml
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\values\strings.xml
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\values\styles.xml
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\menu\menu_main.xml
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-anydpi-v26\ic_launcher.xml
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-hdpi\ic_launcher.png
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-hdpi\ic_launcher_foreground.png
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-hdpi\ic_launcher_round.png
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-mdpi\ic_launcher.png
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-mdpi\ic_launcher_foreground.png
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-mdpi\ic_launcher_round.png
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xhdpi\ic_launcher.png
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xhdpi\ic_launcher_round.png
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xxhdpi\ic_launcher.png
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xxhdpi\ic_launcher_round.png
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xxxhdpi\ic_launcher.png
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\layout\password.xml
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\res\layout\passwordin.xml
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\R.cs.flag
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\R.txt
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\uploadflags.txt
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\Google.Api.Gax.Grpc.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\Google.Api.Gax.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\Google.Cloud.Language.V1.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\Google.Cloud.Speech.V1.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\Google.LongRunning.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\Microsoft.CSharp.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\Mono.Android.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\Mono.Security.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\mscorlib.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\System.ComponentModel.Composition.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\System.Core.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\System.IO.Compression.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\System.Net.Http.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\System.Numerics.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\System.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\System.Runtime.Serialization.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\System.ServiceModel.Internals.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\System.Xml.Linq.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\System.Xml.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\bin\Release\TalkingTalk.dll.mdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\android\assets\TalkingTalk.dll.mdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\android\assets\Mono.Android.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\android\assets\Mono.Security.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\android\assets\mscorlib.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\android\assets\System.Core.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\android\assets\System.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\android\assets\System.Runtime.Serialization.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\TalkingTalk.dll.mdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\Mono.Android.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\Mono.Security.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\mscorlib.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\System.Core.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\System.Net.Http.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\System.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\System.Runtime.Serialization.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\System.ServiceModel.Internals.pdb
+L:\Data\C Studio\My Project\TalkingTalk2\TalkingTalk\obj\Release\81\linksrc\System.Xml.pdb
